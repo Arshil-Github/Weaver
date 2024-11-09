@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: 0da96b159ad63e0458545db2e99cb0f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -220685427396216741
+    second: furniturefornobles_mv_mz_0
+  - first:
+      213: -4380318321302392114
+    second: furniturefornobles_mv_mz_1
+  - first:
+      213: -4884060353022946559
+    second: furniturefornobles_mv_mz_2
+  - first:
+      213: -5102218628697854806
+    second: furniturefornobles_mv_mz_3
+  - first:
+      213: 8831252803331703777
+    second: furniturefornobles_mv_mz_4
+  - first:
+      213: -7786517569883299285
+    second: furniturefornobles_mv_mz_5
+  - first:
+      213: -3055007352427965516
+    second: furniturefornobles_mv_mz_6
+  - first:
+      213: -2865363150447827857
+    second: furniturefornobles_mv_mz_7
+  - first:
+      213: 3165228350127759950
+    second: furniturefornobles_mv_mz_8
+  - first:
+      213: -6496095494437409745
+    second: furniturefornobles_mv_mz_9
+  - first:
+      213: -8568113010689576607
+    second: furniturefornobles_mv_mz_10
+  - first:
+      213: 6340673659238659186
+    second: furniturefornobles_mv_mz_11
+  - first:
+      213: -4325341071472248363
+    second: furniturefornobles_mv_mz_12
+  - first:
+      213: 6928891551932694908
+    second: furniturefornobles_mv_mz_13
+  - first:
+      213: -655972502434961293
+    second: furniturefornobles_mv_mz_14
+  - first:
+      213: 7931731731197688849
+    second: furniturefornobles_mv_mz_15
+  - first:
+      213: -8206068363233127329
+    second: furniturefornobles_mv_mz_16
+  - first:
+      213: 2284864683015890168
+    second: furniturefornobles_mv_mz_17
+  - first:
+      213: -3377487568028668089
+    second: furniturefornobles_mv_mz_18
+  - first:
+      213: -7159499622179397522
+    second: furniturefornobles_mv_mz_19
+  - first:
+      213: -8550618338314175941
+    second: furniturefornobles_mv_mz_20
+  - first:
+      213: 9123237553818389999
+    second: furniturefornobles_mv_mz_21
+  - first:
+      213: 1923931595712981577
+    second: furniturefornobles_mv_mz_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 700
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5871f4e5c7ffecf0800000000000000
+      internalID: -220685427396216741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 679
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b2a7d1bbf533c0800000000000000
+      internalID: -4380318321302392114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 671
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1039f7c5cf4583cb0800000000000000
+      internalID: -4884060353022946559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 674
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac651e90374139b0800000000000000
+      internalID: -5102218628697854806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 623
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3424872a9ee8a70800000000000000
+      internalID: 8831252803331703777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 623
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22a4c1668bb0f390800000000000000
+      internalID: -7786517569883299285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 628
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b31354cffe6a95d0800000000000000
+      internalID: -3055007352427965516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 624
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f642011656f2c38d0800000000000000
+      internalID: -2865363150447827857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 627
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426c521a662deb20800000000000000
+      internalID: 3165228350127759950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 627
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cea0bc09b39d5a0800000000000000
+      internalID: -6496095494437409745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 579
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f172dc92f71980800000000000000
+      internalID: -8568113010689576607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 533
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274b89749199ef750800000000000000
+      internalID: 6340673659238659186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 533
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d93d7e463d49f3c0800000000000000
+      internalID: -4325341071472248363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 577
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c714728d72e582060800000000000000
+      internalID: 6928891551932694908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 577
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378a0f90c7485e6f0800000000000000
+      internalID: -655972502434961293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 576
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c7bb34cfb231e60800000000000000
+      internalID: 7931731731197688849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 578
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f541bee1d403e1e80800000000000000
+      internalID: -8206068363233127329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 578
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f46ffec25875bf10800000000000000
+      internalID: 2284864683015890168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 385
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f6a5a93f0c021d0800000000000000
+      internalID: -3377487568028668089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 534
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60247ab60954ac90800000000000000
+      internalID: -7159499622179397522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 534
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ab7d6ace9165980800000000000000
+      internalID: -8550618338314175941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 239
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed49dcd7304c9e70800000000000000
+      internalID: 9123237553818389999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniturefornobles_mv_mz_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6f96c79d23ba10800000000000000
+      internalID: 1923931595712981577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
